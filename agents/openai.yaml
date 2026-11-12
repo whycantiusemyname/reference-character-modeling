@@ -1,0 +1,3 @@
+interface:
+  display_name: "参考驱动角色建模"
+  short_description: "依据角色参考逐层建模，隐藏遮挡逐件验收，主动检索与生成造型参考"
